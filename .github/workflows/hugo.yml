@@ -23,6 +23,11 @@ jobs:
       - name: Install css
         run: npm i -g postcss-cli
 
+      - name: test
+        run: ls -l
+      - name: test1
+        run: pwd
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
