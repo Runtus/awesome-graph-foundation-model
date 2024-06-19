@@ -1,4 +1,4 @@
-baseURL = "https://runtus.github.io/"
+baseURL = "https://runtus.github.io/awesome-graph-foundation-model/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
 theme = "digitalgarden"
